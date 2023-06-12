@@ -1,5 +1,4 @@
-![image](https://github.com/curiousPirate/curiousPirate/assets/85549330/13f2841f-d0e4-4f30-a113-3d28022c8c40)
-
+![Untitled](https://github.com/curiousPirate/curiousPirate/assets/85549330/8d26afad-cac2-4013-8755-6eafd9dccbcc)
 
 # Hi there! 👋 {Open to work}
 
