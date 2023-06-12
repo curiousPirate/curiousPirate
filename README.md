@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://img.shields.io/badge/🐍-snake-green.svg)](https://github.com/curiousPirate/curiousPirate)
+
