@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 {Open to work}
 
 ## I'm Chaitanya
 
