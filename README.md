@@ -2,17 +2,17 @@
 
 ## I'm Chaitanya
 
-- 💻 Frontend Developer with a focus on problem-solving and design
-- 🌱 Constantly learning and exploring new technologies
-- 🎨 Eye for detail and a passion for creating visually appealing user experiences
-- 🌍 Based in Hyderabad, India 🇮🇳
-- ⚡ Fun fact: I have a case of "happy feet syndrome" that compels me to constantly explore new places and embark on exciting travel          adventures.
+"A Chemical Engineering graduate with over 5 years of experience in Project Management and Customer Success. Driven by my passion for problem-solving and designing, I made a career transition into Frontend Development. I bring a unique blend of technical expertise and a strong foundation in project management to deliver exceptional solutions. I am dedicated to creating engaging user experiences and leveraging my problem-solving skills to tackle complex challenges. Let's collaborate and create innovative solutions together!"
 
 ## Let's connect
 
 - 📧 [Email](gchaitanya.369@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-varmag/)
 - 📸 [Instagram](https://www.instagram.com/chaitanya__369/)
+- 🕸️ [Portfolio](http://thecuriousdev.co.in/)
+- 🌍 Based in Hyderabad, India 🇮🇳
+- ⚡ Fun fact: I have a case of "happy feet syndrome" that compels me to constantly explore new places and embark on exciting travel          adventures.
+
 
 
 ## Tech Stack
