@@ -1,3 +1,6 @@
+![image](https://github.com/curiousPirate/curiousPirate/assets/85549330/13f2841f-d0e4-4f30-a113-3d28022c8c40)
+
+
 # Hi there! 👋 {Open to work}
 
 ## I'm Chaitanya
