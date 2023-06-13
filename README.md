@@ -27,6 +27,6 @@
 
 ## Statistics
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousPirate&include_all_commits=true&rank_icon=github&theme=radical)
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousPirate&show_icons=true&include_all_commits=true&rank_icon=github&theme=prussian)
 
 
