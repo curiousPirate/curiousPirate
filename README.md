@@ -2,10 +2,15 @@
 <br>
 <br>
 
-# Hi there! 👋 {Open to work}
-
+<p>
+	<h1 align="center">Hi there! 👋 </h1>
+</p>
 <p>
 	<h1 align="center">I'm Chaitanya</h1>
+</p>
+
+<p>
+	<h1 align="center">{Open for work & collaboration}</h1>
 </p>
 
  <p align="center">
